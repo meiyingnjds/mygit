@@ -1,1 +1,2 @@
 This write on branch master! 
+git reset --hard
